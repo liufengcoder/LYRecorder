@@ -1,0 +1,2 @@
+# LYRecorder
+这个是一个录音的小demo，使用的框架有lame将视频转换MP3格式，AFN将MP3格式的视频上传到服务器
